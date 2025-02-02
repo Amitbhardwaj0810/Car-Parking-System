@@ -28,3 +28,13 @@ Additional Resources:
 
 - Code File: The implementation code is available in the ARM.c file.
 - Presentation: A PowerPoint presentation is available, providing a detailed overview of the project, including the functional block diagrams, and interfacing details.
+
+## Learning from the Project:
+- I2C Protocol: Learned and implemented I2C communication for interfacing peripherals like LCD and PIR sensor with the LPC2148 microcontroller.
+- PIR Sensor Integration: Successfully interfaced a PIR sensor to detect car entry and trigger status updates.
+- UART Communication: Configured UART for real-time parking status communication to external systems.
+- LCD Interfacing: Programmed the LCD to display dynamic parking status, including available slots and "Full" alerts.
+- LED Indicators: Used LEDs to visually indicate parking lot status (e.g., green for available, red for full).
+- ARM Programming: Gained hands-on experience in programming the LPC2148 microcontroller using embedded C.
+- System Integration: Integrated all components (PIR, LCD, UART, LEDs) and debugged for seamless operation.
+- Team Collaboration: Improved project management and teamwork skills through task allocation and collaborative problem-solving.

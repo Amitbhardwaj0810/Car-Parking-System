@@ -21,14 +21,6 @@ The project aims to develop a car parking system that detects cars entering a pa
   - LED: Indicates the status of the parking lot.
   - LCD: Displays messages related to parking status.
 
-## Conclusion
-The project successfully implemented a car parking system using a PIR sensor and I2C protocol. The system can be expanded for larger parking lots, ensuring scalability.
-
-Additional Resources:
-
-- Code File: The implementation code is available in the ARM.c file.
-- Presentation: A PowerPoint presentation is available, providing a detailed overview of the project, including the functional block diagrams, and interfacing details.
-
 ## Learning from the Project:
 - I2C Protocol: Learned and implemented I2C communication for interfacing peripherals like LCD and PIR sensor with the LPC2148 microcontroller.
 - PIR Sensor Integration: Successfully interfaced a PIR sensor to detect car entry and trigger status updates.
@@ -38,3 +30,11 @@ Additional Resources:
 - ARM Programming: Gained hands-on experience in programming the LPC2148 microcontroller using embedded C.
 - System Integration: Integrated all components (PIR, LCD, UART, LEDs) and debugged for seamless operation.
 - Team Collaboration: Improved project management and teamwork skills through task allocation and collaborative problem-solving.
+
+## Conclusion
+The project successfully implemented a car parking system using a PIR sensor and I2C protocol. The system can be expanded for larger parking lots, ensuring scalability.
+
+Additional Resources:
+
+- Code File: The implementation code is available in the ARM.c file.
+- Presentation: A PowerPoint presentation is available, providing a detailed overview of the project, including the functional block diagrams, and interfacing details.

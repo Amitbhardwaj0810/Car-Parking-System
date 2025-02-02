@@ -21,7 +21,7 @@ The project aims to develop a car parking system that detects cars entering a pa
   - LED: Indicates the status of the parking lot.
   - LCD: Displays messages related to parking status.
 
-## Learning from the Project:
+## Learnings from the Project:
 - I2C Protocol: Learned and implemented I2C communication for interfacing peripherals like LCD and PIR sensor with the LPC2148 microcontroller.
 - PIR Sensor Integration: Successfully interfaced a PIR sensor to detect car entry and trigger status updates.
 - UART Communication: Configured UART for real-time parking status communication to external systems.
